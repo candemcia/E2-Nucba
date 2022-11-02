@@ -1,0 +1,46 @@
+body {
+    background-color: #131415;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.datosp {
+    color: blueviolet;
+    text-align: center;
+}
+
+.nombre {
+    color: white;
+    text-align: justify;
+}
+
+.foto {
+    text-align: center;
+}
+
+.mydates {
+    color: white;
+}
+
+.redes {
+    color: crimson;
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+    color: white;
+}
+
+.linkk {
+    text-align: center; 
+}
+
+.star {
+    color: crimson;
+    text-align: center;
+}
+
